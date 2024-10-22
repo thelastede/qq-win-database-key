@@ -1,0 +1,1502 @@
+﻿     0>将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild 导入 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Microsoft.Common.props (57,5) 处重新分配属性: $(MSBuildProjectExtensionsPath)=“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\”(先前值:“obj\”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild 导入 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\*
+       “Configuration”属性是全局属性，不能修改。
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       “Configuration”属性是全局属性，不能修改。
+       “LangID”属性是全局属性，不能修改。
+       “SolutionDir”属性是全局属性，不能修改。
+       在 F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj (45,5) 处重新分配属性: $(UseDebugLibraries)=“true”(先前值:“false”)
+       在 F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj (47,5) 处重新分配属性: $(CharacterSet)=“Unicode”(先前值:“NotSet”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (18,5) 处重新分配属性: $(WindowsSdkDir_10)=“C:\Program Files (x86)\Windows Kits\10\”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (41,5) 处重新分配属性: $(NETFXKitsDir)=“C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (44,5) 处重新分配属性: $(NETFXSDKDir)=“C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (199,5) 处重新分配属性: $(WindowsSDK_ExecutablePath_x86)=“C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools”(先前值:“C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (200,5) 处重新分配属性: $(WindowsSDK_ExecutablePath_x64)=“C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64”(先前值:“C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (28,5) 处重新分配属性: $(TargetExt)=“.exe”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (108,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (109,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (110,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (111,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (112,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (113,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (114,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (115,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (116,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (117,5) 处重新分配属性: $(VC_ExecutablePath_Loc)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;;;;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostArm64\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\arm\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\2052;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x86\2052;;;;;;;;;;;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (144,5) 处重新分配属性: $(MSBuild_ExecutablePath)=“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (173,5) 处重新分配属性: $(RemoteDebuggerDeployDebugCppRuntime)=“true”(先前值:“false”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (234,5) 处重新分配属性: $(MultiProcMaxCount)=“0”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (21,5) 处重新分配属性: $(EspXtensions)=“EnumIndex.dll;CppCoreCheck.dll;”(先前值:“CppCoreCheck.dll;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (24,5) 处重新分配属性: $(EspXtensions)=“HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”(先前值:“EnumIndex.dll;CppCoreCheck.dll;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (27,5) 处重新分配属性: $(EspXtensions)=“VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”(先前值:“HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (31,5) 处重新分配属性: $(ConcurrencyCheckPath)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\ConcurrencyCheck.dll”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX86\x86\ConcurrencyCheck.dll”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (32,5) 处重新分配属性: $(EspXtensions)=“ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”(先前值:“VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props (15,5) 处重新分配属性: $(_PropertySheetDisplayName)=“Unicode Support”(先前值:“Core Windows Libraries”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props (15,5) 处重新分配属性: $(_PropertySheetDisplayName)=“Application”(先前值:“Unicode Support”)
+       “SolutionExt”属性是全局属性，不能修改。
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (40,5) 处重新分配属性: $(ExtensionsToDeleteOnClean)=“*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe.manifest;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.tlb;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.pdb;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.bsc;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.ilk;F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe.intermediate.manifest;x64\Debug\QQDatabase.vcxproj.FileListAbsolute.txt”(先前值:“*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (32,5) 处重新分配属性: $(DebugType)=“none”(先前值:“”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild 导入 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\*
+       “Configuration”属性是全局属性，不能修改。
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (186,5) 处重新分配属性: $(_DocumentationFileProduced)=“false”(先前值:“true”)
+       “DevEnvDir”属性是全局属性，不能修改。
+       “SolutionName”属性是全局属性，不能修改。
+       “SolutionFileName”属性是全局属性，不能修改。
+       “SolutionPath”属性是全局属性，不能修改。
+       “SolutionDir”属性是全局属性，不能修改。
+       “SolutionExt”属性是全局属性，不能修改。
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (370,5) 处重新分配属性: $(AutoUnifyAssemblyReferences)=“false”(先前值:“true”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (508,5) 处重新分配属性: $(ProcessorArchitecture)=“amd64”(先前值:“x64”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (560,5) 处重新分配属性: $(DelaySign)=“”(先前值:“false”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (629,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;”(先前值:“{CandidateAssemblyFiles}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (630,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (631,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (632,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (633,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (634,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (635,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (636,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (637,5) 处重新分配属性: $(AssemblySearchPaths)=“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName};F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\”(先前值:“{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3739,5) 处重新分配属性: $(_SGenGenerateSerializationAssembliesConfig)=“Auto”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3740,5) 处重新分配属性: $(_SGenGenerateSerializationAssembliesConfig)=“Off”(先前值:“Auto”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (4874,5) 处重新分配属性: $(_TargetsThatPrepareProjectReferences)=“
+             AssignProjectConfiguration;
+             _SplitProjectReferencesByFileExistence
+           ”(先前值:“_SplitProjectReferencesByFileExistence”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (125,5) 处重新分配属性: $(_CodeAnalysisTreatWarningsAsErrors)=“false”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (235,5) 处重新分配属性: $(CAExcludePath)=“C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”(先前值:“C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (236,5) 处重新分配属性: $(CAExcludePath)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”(先前值:“C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (237,5) 处重新分配属性: $(CAExcludePath)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (240,5) 处重新分配属性: $(PrepareForBuildDependsOn)=“;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables”(先前值:“;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata”)
+       在 C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5) 处重新分配属性: $(PrepareResourcesDependsOn)=“
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”(先前值:“
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\TeamTest\Microsoft.TeamTest.targets (4,5) 处重新分配属性: $(ResolveReferencesDependsOn)=“
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”(先前值:“
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       尝试使用扩展路径 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild 导入 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\*
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (74,5) 处重新分配属性: $(ProjectLockFile)=“obj\project.assets.json”(先前值:“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\project.assets.json”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (185,5) 处重新分配属性: $(ResolveAssemblyReferencesDependsOn)=“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”(先前值:“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (186,5) 处重新分配属性: $(PrepareResourcesDependsOn)=“ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”(先前值:“
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”)
+       将用于 $(MSBuildExtensionsPath) 的搜索路径为 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (39,5) 处重新分配属性: $(DebugType)=“”(先前值:“none”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (121,5) 处重新分配属性: $(BuildDependsOn)=“
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”(先前值:“
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (129,5) 处重新分配属性: $(RebuildDependsOn)=“
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”(先前值:“
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (134,5) 处重新分配属性: $(CleanDependsOn)=“
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ”(先前值:“
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (59,5) 处重新分配属性: $(BeforeBuildGenerateSourcesTargets)=“
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           ”(先前值:“
+             ;
+             BeforeBuildGenerateSources;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (70,5) 处重新分配属性: $(AfterBuildGenerateSourcesTargets)=“
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           ”(先前值:“
+             ;
+             AfterBuildGenerateSources;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (140,5) 处重新分配属性: $(BuildGenerateSourcesAction)=“_BuildGenerateSourcesAction”(先前值:“Build”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (141,5) 处重新分配属性: $(BuildCompileAction)=“_BuildCompileAction”(先前值:“Build”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (142,5) 处重新分配属性: $(BuildLinkAction)=“_BuildLinkAction”(先前值:“Build”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (249,5) 处重新分配属性: $(DetermineProjectTypeTargets)=“_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”(先前值:“
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (311,5) 处重新分配属性: $(ResolveReferencesDependsOn)=“_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”(先前值:“
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (312,5) 处重新分配属性: $(ResolveAssemblyReferencesDependsOn)=“_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”(先前值:“
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (313,5) 处重新分配属性: $(ResolveSDKReferencesDependsOn)=“_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           ”(先前值:“
+             GetInstalledSDKLocations
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (619,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ”(先前值:“
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (932,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ”(先前值:“
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1102,5) 处重新分配属性: $(GetTargetPathDependsOn)=“_PrepareForReferenceResolution;GetResolvedWinMD;”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1128,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ”(先前值:“
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1180,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1187,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             ;
+             ComputeRCGeneratedLibInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1194,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1255,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1270,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ”(先前值:“
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1285,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1316,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1334,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ”(先前值:“
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1352,5) 处重新分配属性: $(ComputeImpLibInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1496,5) 处重新分配属性: $(ComputeLinkInputsTargets)=“
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           ”(先前值:“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1534,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ”(先前值:“
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1591,5) 处重新分配属性: $(ComputeLibInputsTargets)=“
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           ”(先前值:“
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1778,5) 处重新分配属性: $(GetProjectInfoForReferenceDependsOn)=“
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           ”(先前值:“
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2165,5) 处重新分配属性: $(DocumentationProjectOutputGroupDependsOn)=“ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles”(先前值:“”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2231,5) 处重新分配属性: $(ContentFilesProjectOutputGroupDependsOn)=“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc”(先前值:“PrepareForBuild;AssignTargetPaths”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (306,5) 处重新分配属性: $(ComputeCompileInputsTargets)=“
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           ”(先前值:“
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2003,5) 处重新分配属性: $(BuildingProject)=“true”(先前值:“false”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2553,5) 处重新分配属性: $(ContentFilesProjectOutputGroupDependsOn)=“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;”(先前值:“PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc”)
+       在 C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets (22,5) 处重新分配属性: $(_ZVcpkgRoot)=“C:\Users\thelastede\vcpkg\”(先前值:“C:\Users\thelastede\vcpkg”)
+       在 C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets (84,9) 处重新分配属性: $(_ZVcpkgInstalledDir)=“C:\Users\thelastede\vcpkg\installed\”(先前值:“”)
+       在 C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets (96,5) 处重新分配属性: $(ExternalIncludePath)=“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;;C:\Users\thelastede\vcpkg\installed\x64-windows\include”(先前值:“C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets (16,5) 处重新分配属性: $(PrepareForBuildDependsOn)=“_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables”(先前值:“;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (22,5) 处重新分配属性: $(CleanDependsOn)=“
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           ”(先前值:“
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (92,5) 处重新分配属性: $(CppCleanDependsOn)=“
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean”(先前值:“
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (539,5) 处重新分配属性: $(BuildDependsOn)=“SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”(先前值:“
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”)
+       在 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (540,5) 处重新分配属性: $(RebuildDependsOn)=“SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”(先前值:“
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”)
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“GenerateTargetFrameworkMonikerAttribute”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GenerateTargetFrameworkMonikerAttribute”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“Build”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“Build”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“Rebuild”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“Rebuild”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“AfterBuild”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AfterBuild”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“PrepareForBuild”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareForBuild”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“GetTargetPath”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetTargetPath”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeIntermediateSatelliteAssemblies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ComputeIntermediateSatelliteAssemblies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ClCompile”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ClCompile”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ResourceCompile”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ResourceCompile”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Lib”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Lib”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Link”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Link”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AllProjectOutputGroups”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AllProjectOutputGroups”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BuiltProjectOutputGroup”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuiltProjectOutputGroup”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“DebugSymbolsProjectOutputGroup”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“DebugSymbolsProjectOutputGroup”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“DocumentationProjectOutputGroup”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“DocumentationProjectOutputGroup”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“SourceFilesProjectOutputGroup”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“SourceFilesProjectOutputGroup”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ContentFilesProjectOutputGroup”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ContentFilesProjectOutputGroup”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AllProjectOutputGroupsDependencies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AllProjectOutputGroupsDependencies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BuiltProjectOutputGroupDependencies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuiltProjectOutputGroupDependencies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“DebugSymbolsProjectOutputGroupDependencies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“DebugSymbolsProjectOutputGroupDependencies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“DocumentationProjectOutputGroupDependencies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“DocumentationProjectOutputGroupDependencies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“PreBuildEvent”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PreBuildEvent”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“PostBuildEvent”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PostBuildEvent”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ClCompile”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ClCompile”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“Link”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Link”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“Lib”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Lib”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ImpLib”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ImpLib”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“Midl”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Midl”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ResourceCompile”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ResourceCompile”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“BeforeResGen”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BeforeResGen”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ResGen”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ResGen”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“GenerateSatelliteAssemblies”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GenerateSatelliteAssemblies”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“Manifest”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“Manifest”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“XdcMake”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“XdcMake”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“BscMake”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BscMake”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ComputeMetaGenInputs”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets”中的目标“ComputeMetaGenInputs”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“GetNativeManifest”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetNativeManifest”。
+       正在使用项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets”中的目标“GetTargetPathWithTargetPlatformMoniker”重写项目“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetTargetPathWithTargetPlatformMoniker”。
+       项目中不存在 BeforeTargets 特性中的“C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets (198,82)”位置列出的目标“CopyLocalFilesOutputGroup”，将忽略该目标。
+生成启动时间为 2024/10/23 1:11:26。
+日志记录详细程度设置为: Detailed。     1>项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”在节点 2 上(Build 个目标)。
+     1>由于条件的计算结果为 false，已跳过目标“EnableIntermediateOutputPathMismatchWarning”；('$(RestoreProjectStyle)' == 'PackageReference')的计算结果为('' == 'PackageReference')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_CheckForInvalidConfigurationAndPlatform”(目标“SetTelemetryEnvironmentVariables”依赖于它):
+       由于 false 条件，已跳过任务“Error”；( '$(_InvalidConfigurationError)' == 'true' )计算为( '' == 'true' )。
+       由于 false 条件，已跳过任务“Warning”；( '$(_InvalidConfigurationWarning)' == 'true' )计算为( '' == 'true' )。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Message”任务。
+       任务“Message”
+         Configuration=Debug
+       已完成执行任务“Message”的操作。
+       任务“Message”
+         Platform=x64
+       已完成执行任务“Message”的操作。
+       由于 false 条件，已跳过任务“Error”；('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)'))计算为('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\' != '' and !HasTrailingSlash('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\'))。
+       由于 false 条件，已跳过任务“Error”；('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)'))计算为('x64\Debug\' != '' and !HasTrailingSlash('x64\Debug\'))。
+       由于 false 条件，已跳过任务“Error”；('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)'))计算为('obj\' != '' and !HasTrailingSlash('obj\'))。
+       由于 false 条件，已跳过任务“Error”；( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' )计算为( 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\' != '' And 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\' != 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\' )。
+       由于 false 条件，已跳过任务“Warning”；( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' )计算为( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\obj\' )。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_CheckForInvalidConfigurationAndPlatform”的操作。
+       已跳过目标“_CheckForInvalidConfigurationAndPlatform”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets”中的目标“SetTelemetryEnvironmentVariables”(目标“Build”依赖于它):
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“SetEnv”任务。
+       任务“SetEnv”
+         VSTEL_SolutionSessionID=
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         VSTEL_CurrentSolutionBuildID=
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         VSTEL_ProjectID={de6c13c6-1b65-4212-95fb-1ad038ab7713}
+       已完成执行任务“SetEnv”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SetTelemetryEnvironmentVariables”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“_PrepareForBuild”(目标“Build”依赖于它):
+       由于 false 条件，已跳过任务“CreateItem”；('%(CustomBuild.IncludeFileToTool)'!='')计算为(''!='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_PrepareForBuild”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_PrepareForReferenceResolution”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('$(WarnAboutIndividualManagedFiles)' == 'true')计算为('' == 'true')。
+       由于 false 条件，已跳过任务“Message”；('$(_REFERENCE_DEBUG)'=='true')计算为(''=='true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_PrepareForReferenceResolution”的操作。
+       由于条件的计算结果为 false，已跳过目标“ComputeCrtSDKReference”；('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')的计算结果为('tool.cpp'!='' and 'false'=='true' and '' != 'false')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BeforeResolveReferences”(目标“ResolveReferences”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BeforeResolveReferences”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AssignProjectConfiguration”(目标“ResolveReferences”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“AssignProjectConfiguration”任务。
+       任务“AssignProjectConfiguration”
+       已完成执行任务“AssignProjectConfiguration”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AssignProjectConfiguration”的操作。
+       已跳过目标“AssignProjectConfiguration”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_SplitProjectReferencesByFileExistence”(目标“PrepareProjectReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveNonMSBuildProjectOutput”；('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='')计算为('true'=='true' and ''!='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_SplitProjectReferencesByFileExistence”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_AddOutputPathToGlobalPropertiesToRemove”(目标“_GetProjectReferenceTargetFrameworkProperties”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_AddOutputPathToGlobalPropertiesToRemove”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_GetProjectReferenceTargetFrameworkProperties”(目标“PrepareProjectReferences”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“MSBuild”任务。
+       任务“MSBuild”
+       已完成执行任务“MSBuild”的操作。
+       由于 false 条件，已跳过任务“GetReferenceNearestTargetFrameworkTask”；('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true')计算为('' != '' and '' != ''
+                                                               And 'true' == 'true' and '' != 'true')。
+       由于 false 条件，已跳过任务“GetReferenceNearestTargetFrameworkTask”；('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true')计算为('' != '' and '' != ''
+                                                               And 'true' != 'true' and '' != 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_GetProjectReferenceTargetFrameworkProperties”的操作。
+       由于条件的计算结果为 false，已跳过目标“_GetProjectReferencePlatformProperties”；('$(EnableDynamicPlatformResolution)' == 'true'
+                            and '$(BuildingInsideVisualStudio)' != 'true'
+                            and '@(_MSBuildProjectReferenceExistent)' != '')的计算结果为('' == 'true'
+                            and 'true' != 'true'
+                            and '' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareProjectReferences”(目标“ResolveProjectReferences”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PrepareProjectReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“_RemoveNameMetadataFromProjectReferenceItems”；('@(ProjectReference)'!='')的计算结果为(''!='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveProjectReferences”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '17.0' != '10.0' and '' != '')。
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '')。
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == 'true' and '' != '' and 'true' == 'true' and '' != '')。
+       由于 false 条件，已跳过任务“Warning”；('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '')计算为('' != '' and '' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ResolveProjectReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“FindInvalidProjectReferences”；('$(FindInvalidProjectReferences)' == 'true')的计算结果为('' == 'true')。
+       由于条件的计算结果为 false，已跳过目标“ResolveNativeReferences”；('@(NativeReference)'!='')的计算结果为(''!='')。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       已跳过目标“ResolveProjectReferences”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“FindInvalidProjectReferences”；('$(FindInvalidProjectReferences)' == 'true')的计算结果为('' == 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetFrameworkPaths”(目标“ResolveAssemblyReferences”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetFrameworkPaths”的操作。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       已跳过目标“GetFrameworkPaths”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetReferenceAssemblyPaths”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“GetReferenceAssemblyPaths”；('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == ''))计算为('' != '' and ('' == '' or '' == ''))。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetReferenceAssemblyPaths”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets”中的目标“AddExternalIncludDirectoriesToPaths”(目标“SetBuildDefaultEnvironmentVariables”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AddExternalIncludDirectoriesToPaths”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets”中的目标“SetBuildDefaultEnvironmentVariables”(目标“PrepareForBuild”依赖于它):
+       任务“SetEnv”
+         PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;D:\VMware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\xshell\;D:\XFTP\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;D:\ffmpeg\bin;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\lib;D:\Bandizip\;D:\Strawberry\c\bin;D:\Strawberry\perl\site\bin;D:\Strawberry\perl\bin;D:\Git\cmd;D:\BinDiff\bin;D:\apache-maven-3.9.4\bin;C:\Users\thelastede\AppData\Roaming\Code\User\globalStorage\github.vscode-codeql\distribution2\codeql;F:\工作文件\学习;C:\Program Files\VanDyke Software\SecureCRT\;D:\Graphviz\bin;D:\Graphviz;C:\Users\thelastede\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\thelastede\AppData\Local\Programs\Python\Python310\;C:\Users\thelastede\AppData\Local\Microsoft\WindowsApps;;D:\IntelliJ IDEA Community Edition 2023.2.1\bin;;D:\Microsoft VS Code\bin;C:\Users\thelastede\.dotnet\tools;D:\texlive\2023\bin\windows;C:\Users\thelastede\AppData\Roaming\Programs\Zero Install;
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\x64;
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;;C:\Users\thelastede\vcpkg\installed\x64-windows\include
+       已完成执行任务“SetEnv”的操作。
+       任务“SetEnv”
+         EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;;C:\Users\thelastede\vcpkg\installed\x64-windows\include
+       已完成执行任务“SetEnv”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SetBuildDefaultEnvironmentVariables”的操作。
+       由于条件的计算结果为 false，已跳过目标“SetUserMacroEnvironmentVariables”；('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')的计算结果为('' != '' and '' != 'true')。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“GetResolvedWinMD”(目标“PrepareForBuild”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetResolvedWinMD”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets”中的目标“_CheckWindowsSDKInstalled”(目标“PrepareForBuild”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('$(WindowsSDKInstalled)' != 'true')计算为('true' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true)计算为('false' != 'true' and 'true' != true)。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_CheckWindowsSDKInstalled”的操作。
+       已跳过目标“GetFrameworkPaths”。以前的生成已成功。
+       已跳过目标“GetReferenceAssemblyPaths”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“AssignLinkMetadata”；( '$(SynthesizeLinkMetadata)' == 'true' )的计算结果为( '' == 'true' )。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets”中的目标“SetCABuildNativeEnvironmentVariables”(目标“PrepareForBuild”依赖于它):
+       任务“SetEnv”
+         CAExcludePath=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       已完成执行任务“SetEnv”的操作。
+       由于 false 条件，已跳过任务“SetEnv”；('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true')计算为('false'=='true' and 'true'=='true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SetCABuildNativeEnvironmentVariables”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“PrepareForBuild”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true')计算为('' != 'true' and 'true' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true')计算为('' != 'true' and 'true' != 'true')。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“MakeDir”任务。
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary')计算为(''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' ))计算为(''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' ))。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90')计算为(''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\'=='' and '' != 'true' and 'v143'=='v90')。
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“CheckVCToolsetVersion”任务。
+       任务“CheckVCToolsetVersion”
+       已完成执行任务“CheckVCToolsetVersion”的操作。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '')计算为('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\mfcs140.lib) and '' == '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '')计算为('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\mfcs140.lib) and '' != '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '')计算为('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib) and '' == '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '')计算为('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\lib\x64\atls.lib) and '' != '')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)'))))计算为('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\spectre\onecore\x64')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\lib\spectre\x64'))))。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true')计算为(''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\'=='' and '' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true')计算为(''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true')计算为(''!='true' and ''=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true')计算为(''!='true' and ''=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true')计算为('' != '' and ''!='true')。
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“VCMessage”任务。
+       任务“VCMessage”
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(QQDatabase.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+       已完成执行任务“VCMessage”的操作。
+       由于 false 条件，已跳过任务“VCMessage”；('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(_Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Temp), true, null))' == 'true'))计算为(''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true'))。
+       任务“MakeDir”
+         正在创建目录“x64\Debug\QQDatabaseKey.tlog\”。
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PrepareForBuild”的操作。
+       已跳过目标“_PrepareForReferenceResolution”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“ComputeCrtSDKReference”；('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')的计算结果为('tool.cpp'!='' and 'false'=='true' and '' != 'false')。
+       由于条件的计算结果为 false，已跳过目标“GetInstalledSDKLocations”；('@(SDKReference)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveSDKReferences”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveSDKReference”；('@(SDKReference)'!='')计算为(''!='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ResolveSDKReferences”的操作。
+       已跳过目标“ResolveSDKReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ExpandSDKReferences”(目标“ResolveAssemblyReferences”依赖于它):
+       由于 false 条件，已跳过任务“GetSDKReferenceFiles”；('@(ResolvedSDKReference)'!='')计算为(''!='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ExpandSDKReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“ResolveNuGetPackageAssets”；('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)'))的计算结果为('true' == 'true' and exists('obj\project.assets.json'))。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveAssemblyReferences”(目标“ResolveReferences”依赖于它):
+       由于 false 条件，已跳过任务“ResolveAssemblyReference”；('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '')计算为(''!='' or ''!='' or '' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ResolveAssemblyReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“GenerateBindingRedirects”；('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true')的计算结果为('' == 'true' and 'true' == 'true')。
+       由于条件的计算结果为 false，已跳过目标“GenerateBindingRedirectsUpdateAppConfig”；('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)'))的计算结果为('' == 'true' and 'true' == 'true' and Exists('x64\Debug\QQDatabaseKey.exe.config'))。
+       由于条件的计算结果为 false，已跳过目标“ResolveComReferences”；('@(COMReference)'!='' or '@(COMFileReference)'!='')的计算结果为(''!='' or ''!='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AfterResolveReferences”(目标“ResolveReferences”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterResolveReferences”的操作。
+       由于条件的计算结果为 false，已跳过目标“ResolveTestReferences”；('@(Shadow)'!='')的计算结果为(''!='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“ResolveReferences”(目标“Build”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ResolveReferences”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“InitializeBuildStatus”(目标“Build”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“ReadLinesFromFile”任务。
+       任务“ReadLinesFromFile”
+       已完成执行任务“ReadLinesFromFile”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“WriteLinesToFile”任务。
+       任务“WriteLinesToFile”
+       已完成执行任务“WriteLinesToFile”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Touch”任务。
+       任务“Touch”
+         正在创建“x64\Debug\QQDatabaseKey.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       已完成执行任务“Touch”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“InitializeBuildStatus”的操作。
+       已跳过目标“PrepareProjectReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildGenerateSourcesTraverse”(目标“BuildGenerateSources”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')计算为('' == 'true' and '' != '' and '' != '' and '' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildGenerateSourcesTraverse”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“BeforeBuildGenerateSources”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BeforeBuildGenerateSources”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“PreBuildEvent”(目标“_BuildGenerateSourcesAction”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“Exec”；('%(PreBuildEvent.Command)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PreBuildEvent”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“InitializeBuildStatus”。以前的生成已成功。
+       已跳过目标“SetBuildDefaultEnvironmentVariables”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“SetUserMacroEnvironmentVariables”；('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')的计算结果为('' != '' and '' != 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_SelectedFiles”(目标“SelectCustomBuild”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_SelectedFiles”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“SelectCustomBuild”(目标“CustomBuild”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SelectCustomBuild”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCustomBuildOutput”(目标“CustomBuild”依赖于它):
+       由于 false 条件，已跳过任务“CreateItem”；('%(CustomBuildOutputs.OutputItemType)'!='')计算为(''!='')。
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCustomBuildOutput”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“CustomBuild”(目标“_BuildGenerateSourcesAction”依赖于它):
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“GetOutOfDateItems”任务。
+       任务“GetOutOfDateItems”
+       已完成执行任务“GetOutOfDateItems”的操作。
+       任务“GetOutOfDateItems”
+       已完成执行任务“GetOutOfDateItems”的操作。
+       由于 false 条件，已跳过任务“ParallelCustomBuild”；('@(_ParallelCustomBuild)' != '')计算为('' != '')。
+       由于 false 条件，已跳过任务“CustomBuild”；('@(_CustomBuild)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CustomBuild”的操作。
+       由于条件的计算结果为 false，已跳过目标“FxExport”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxCompile”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“_CreateCopyFileItems”；('@(CopyFileToFolders)' != '')的计算结果为('' != '')。
+       已跳过目标“_SelectedFiles”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“CopyFileToFolders”(目标“_BuildGenerateSourcesAction”依赖于它):
+       任务“GetOutOfDateItems”
+       已完成执行任务“GetOutOfDateItems”的操作。
+       由于 false 条件，已跳过任务“Copy”；('@(_OutOfDateCopyFile)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CopyFileToFolders”的操作。
+       由于条件的计算结果为 false，已跳过目标“Xsd”；('@(Xsd)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Xsd”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Xsd”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForMidl”(目标“_Midl”依赖于它):
+       任务“Makedir”
+       已完成执行任务“Makedir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForMidl”的操作。
+       由于条件的计算结果为 false，已跳过目标“Midl”；('@(Midl)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxExport”；('@(FxCompile)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“FxCompile”；('@(FxCompile)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeMIDLGeneratedCompileInputs”(目标“_Midl”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeMIDLGeneratedCompileInputs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterMidl”(目标“_Midl”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterMidl”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Midl”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Midl”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“AfterBuildGenerateSources”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterBuildGenerateSources”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterBuildGenerateSourcesEvent”(目标“_BuildGenerateSourcesAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterBuildGenerateSourcesEvent”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_BuildGenerateSourcesAction”(目标“BuildGenerateSources”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_BuildGenerateSourcesAction”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildGenerateSources”(目标“Build”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildGenerateSources”的操作。
+       已跳过目标“PrepareProjectReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildCompileTraverse”(目标“BuildCompile”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')计算为('' == 'true' and '' != '' and '' != ''  and '' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildCompileTraverse”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BeforeClCompile”(目标“_ClCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BeforeClCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“GenerateTargetFrameworkMonikerAttribute”；('$(GenerateTargetFrameworkAttribute)' == 'true')的计算结果为('false' == 'true')。
+       已跳过目标“ComputeMIDLGeneratedCompileInputs”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCLInputPDBName”(目标“_ClCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCLInputPDBName”的操作。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“FindReferenceAssembliesForReferences”(目标“ComputeReferenceCLInput”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“FindReferenceAssembliesForReferences”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“GetReferencedVCProjectsInfo”(目标“ComputeReferenceCLInput”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '')计算为('' == '.vcxproj' and '' != '' and '' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetReferencedVCProjectsInfo”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeReferenceCLInput”(目标“_ClCompile”依赖于它):
+       由于 false 条件，已跳过任务“WriteLinesToFile”；('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')计算为(''!='' and '' != 'true' and 'true' == 'true')。
+       由于 false 条件，已跳过任务“WriteLinesToFile”；('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')计算为(''!='' and '' != 'true' and 'true' == 'true')。
+       由于 false 条件，已跳过任务“Message”；('$(_REFERENCE_DEBUG)'=='true')计算为(''=='true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeReferenceCLInput”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“WarnCompileDuplicatedFilename”(目标“_ClCompile”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())')计算为('' != 'true' and 'tool.cpp' != 'tool.cpp' and 'x64\Debug\' == 'x64\Debug\')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“WarnCompileDuplicatedFilename”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“FixupCLCompileOptions”(目标“_ClCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“FixupCLCompileOptions”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForCl”(目标“_ClCompile”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForCl”的操作。
+       已跳过目标“_SelectedFiles”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“GenerateTargetFrameworkMonikerAttribute”；('$(GenerateTargetFrameworkAttribute)' == 'true')的计算结果为('false' == 'true')。
+       已跳过目标“ComputeMIDLGeneratedCompileInputs”。以前的生成已成功。
+       已跳过目标“ComputeCLInputPDBName”。以前的生成已成功。
+       已跳过目标“ComputeReferenceCLInput”。以前的生成已成功。
+       已跳过目标“WarnCompileDuplicatedFilename”。以前的生成已成功。
+       已跳过目标“FixupCLCompileOptions”。以前的生成已成功。
+       已跳过目标“SelectCustomBuild”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“SetModuleDependencies”；('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true')的计算结果为('' != 'true' and '' == 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“SelectClCompile”(目标“ClCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SelectClCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“SelectAnalysisManifest”；('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')的计算结果为('false'=='true' and ''!='')。
+       由于条件的计算结果为 false，已跳过目标“ManagedIncrementalBuildPreProcessDependencyGraph”；('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')的计算结果为('tool.cpp' != '' and 'false' == 'True')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets”中的目标“VcpkgTripletSelection”(目标“ClCompile”依赖于它):
+       任务“Message”
+         Using triplet "x64-windows" from "C:\Users\thelastede\vcpkg\installed\x64-windows\"
+       已完成执行任务“Message”的操作。
+       任务“Message”
+         Using normalized configuration "Debug"
+       已完成执行任务“Message”的操作。
+       由于 false 条件，已跳过任务“Message”；('$(VcpkgEnabled)' != 'true')计算为('true' != 'true')。
+       由于 false 条件，已跳过任务“Message”；('$(VcpkgEnabled)' == 'true' and '$(_ZVcpkgNormalizedConfiguration)' == '')计算为('true' == 'true' and 'Debug' == '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“VcpkgTripletSelection”的操作。
+       由于条件的计算结果为 false，已跳过目标“VcpkgInstallManifestDependencies”；('$(VcpkgEnabled)' == 'true' and '$(VcpkgEnableManifest)' == 'true' and '$(VcpkgManifestInstall)' == 'true')的计算结果为('true' == 'true' and 'false' == 'true' and 'true' == 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets”中的目标“VcpkgCheckManifestRoot”(目标“VcpkgInstallManifestDependencies”依赖于它):
+       由于 false 条件，已跳过任务“Error”；('$(VcpkgEnableManifest)' == 'true' and '$(_ZVcpkgManifestRoot)' == '')计算为('false' == 'true' and '' == '')。
+       由于 false 条件，已跳过任务“Message”；('$(VcpkgEnableManifest)' != 'true' and '$(_ZVcpkgManifestRoot)' != '')计算为('false' != 'true' and '' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“VcpkgCheckManifestRoot”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ClCompile”(目标“_ClCompile”依赖于它):
+       由于 false 条件，已跳过任务“Delete”；('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'None' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName)))计算为('EditAndContinue' != '' and 'EditAndContinue' != 'None' and 'EditAndContinue' != 'OldStyle' and 'x64\Debug\vc143.pdb' != '' and !Exists(x64\Debug\vc143.pdb))。
+       由于 false 条件，已跳过任务“MultiToolTask”；('%(ClCompile.CompilerIteration)' == 'Modules')计算为('' == 'Modules')。
+       由于 false 条件，已跳过任务“MultiToolTask”；('%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true')计算为('' == '' and 'false' == 'true')。
+       由于 false 条件，已跳过任务“CL”；('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true')计算为('NotUsing' == 'Create' and '' == '' and 'false' != 'true')。
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“CL”任务。
+       任务“CL”
+         并非所有源文件都是最新的: 缺少命令 TLog“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\x64\Debug\QQDatabaseKey.tlog\CL.command.1.tlog”。
+         传递给工具的环境变量为:
+           VS_UNICODE_OUTPUT=1140
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\CL.exe /c /I"C:\Users\thelastede\vcpkg\installed\x64-windows\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt tool.cpp
+         跟踪命令:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\x64\Debug\QQDatabaseKey.tlog" /r "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDATABASE\QQDATABASE\TOOL.CPP" /b MSBuildConsole_CancelEvent8d289ad86e484962ae81d1fa4e70ed63  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\CL.exe"  /c /I"C:\Users\thelastede\vcpkg\installed\x64-windows\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt tool.cpp
+         tool.cpp
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(272,44): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(285,63): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(297,5): warning C4102: “next”: 未引用的标签
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(308,13): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const TCHAR *”
+       F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): message : 请考虑在格式字符串中使用“%ls”
+       F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): message : 请考虑在格式字符串中使用“%lls”
+       F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): message : 请考虑在格式字符串中使用“%Ls”
+       F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): message : 请考虑在格式字符串中使用“%ws”
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(434,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(445,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(480,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(745,112): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+     1>F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(776,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+       已完成执行任务“CL”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ClCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“RunSelectedFileNativeCodeAnalysis”；('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')的计算结果为('false'=='true' and ''!='')。
+       由于条件的计算结果为 false，已跳过目标“ManagedIncrementalBuildPostProcessDependencyGraph”；('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')的计算结果为('tool.cpp' != '' and 'false' == 'True')。
+       由于条件的计算结果为 false，已跳过目标“NoAnalysisToolEnabledWarning”；('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false')的计算结果为('false'=='true' AND 'true'=='false' AND 'false'=='false')。
+       由于条件的计算结果为 false，已跳过目标“RunSelectedFileClangTidy”；('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='')的计算结果为('false'=='true' AND ''!='')。
+       由于条件的计算结果为 false，已跳过目标“MicrosoftAnalysisIncompatiableWithClangCl”；('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true')的计算结果为('false'=='true' AND 'true'=='true' AND ''=='true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterClCompile”(目标“_ClCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterClCompile”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_ClCompile”(目标“_BuildCompileAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_ClCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“_ResGen”；('@(EmbeddedResource)'!='')的计算结果为(''!='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BeforeResourceCompile”(目标“_ResourceCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BeforeResourceCompile”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForResourceCompile”(目标“_ResourceCompile”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForResourceCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“ResourceCompile”；('@(ResourceCompile)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterResourceCompile”(目标“_ResourceCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterResourceCompile”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_ResourceCompile”(目标“_BuildCompileAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_ResourceCompile”的操作。
+       由于条件的计算结果为 false，已跳过目标“_ImpLib”；('$(ImpLibCompiled)' == 'true')的计算结果为('' == 'true')。
+       由于条件的计算结果为 false，已跳过目标“_Lib”；('$(LibCompiled)' == 'true')的计算结果为('' == 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterBuildCompileEvent”(目标“_BuildCompileAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterBuildCompileEvent”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_BuildCompileAction”(目标“BuildCompile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_BuildCompileAction”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildCompile”(目标“Build”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildCompile”的操作。
+       已跳过目标“PrepareProjectReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildLinkTraverse”(目标“BuildLink”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')计算为('' == 'true' and '' != '' and '' != ''  and '' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildLinkTraverse”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeLegacyManifestEmbedding”(目标“_BuildLinkAction”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true')计算为('' == 'true' and '' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeLegacyManifestEmbedding”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BeforeLink”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BeforeLink”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeRCOutputs”(目标“ComputeRCGeneratedLinkInputs”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeRCOutputs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeRCGeneratedLinkInputs”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeRCGeneratedLinkInputs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeManifestGeneratedLinkerInputs”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeManifestGeneratedLinkerInputs”的操作。
+       已跳过目标“ComputeCustomBuildOutput”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“GenerateTargetFrameworkMonikerAttribute”；('$(GenerateTargetFrameworkAttribute)' == 'true')的计算结果为('false' == 'true')。
+       已跳过目标“ComputeMIDLGeneratedCompileInputs”。以前的生成已成功。
+       已跳过目标“ComputeCLInputPDBName”。以前的生成已成功。
+       已跳过目标“ComputeReferenceCLInput”。以前的生成已成功。
+       已跳过目标“WarnCompileDuplicatedFilename”。以前的生成已成功。
+       已跳过目标“FixupCLCompileOptions”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCLOutputs”(目标“ComputeCLGeneratedLinkInputs”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCLOutputs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCLGeneratedLinkInputs”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCLGeneratedLinkInputs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeLinkInputsFromProject”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeLinkInputsFromProject”的操作。
+       由于条件的计算结果为 false，已跳过目标“ComputeReferenceLinkInputs”；(@(ProjectReference) != '')的计算结果为( != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeManifestInputsTargets”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeManifestInputsTargets”的操作。
+       由于条件的计算结果为 false，已跳过目标“ManifestResourceCompile”；('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '')的计算结果为('LINK' == 'LINK' and '' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“AssignTargetPaths”(目标“PrepareResourceNames”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“AssignTargetPath”任务。
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+       由于 false 条件，已跳过任务“AssignTargetPath”；('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest')计算为(''=='' and ''=='.manifest')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AssignTargetPaths”的操作。
+       已跳过目标“AssignTargetPaths”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“SplitResourcesByCulture”(目标“PrepareResourceNames”依赖于它):
+       由于 false 条件，已跳过任务“Warning”；('@(ResxWithNoCulture)'!='')计算为(''!='')。
+       由于 false 条件，已跳过任务“Warning”；('@(ResxWithCulture)'!='')计算为(''!='')。
+       由于 false 条件，已跳过任务“Warning”；('@(NonResxWithCulture)'!='')计算为(''!='')。
+       由于 false 条件，已跳过任务“Warning”；('@(NonResxWithNoCulture)'!='')计算为(''!='')。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“AssignCulture”任务。
+       任务“AssignCulture”
+       已完成执行任务“AssignCulture”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SplitResourcesByCulture”的操作。
+       由于条件的计算结果为 false，已跳过目标“CreateManifestResourceNames”；('@(EmbeddedResource)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“CreateCustomManifestResourceNames”(目标“PrepareResourceNames”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CreateCustomManifestResourceNames”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareResourceNames”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PrepareResourceNames”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForLink”(目标“_Link”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForLink”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“DoLinkOutputFilesMatch”(目标“_Link”依赖于它):
+       由于 false 条件，已跳过任务“VCMessage”；('@(_OutputFileFromLink)' == '')计算为('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe' == '')。
+       由于 false 条件，已跳过任务“VCMessage”；('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))')计算为('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe' != '' and 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe' != 'F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe')。
+       由于 false 条件，已跳过任务“VCMessage”；('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Extension)' != '' and '%(_OutputFileFromLink.Extension)' != '$(TargetExt)')计算为('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe' != '' and '.exe' != '' and '.exe' != '.exe')。
+       由于 false 条件，已跳过任务“VCMessage”；('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)')计算为('F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe' != '' and 'QQDatabaseKey' != '' and 'QQDatabaseKey' != 'QQDatabaseKey')。
+       由于 false 条件，已跳过任务“VCMessage”；('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet'))计算为('' != '' and ('Console' == '' or 'Console' == 'NotSet'))。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“DoLinkOutputFilesMatch”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“PreLinkEvent”(目标“_Link”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“Exec”；('%(PreLinkEvent.Command)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PreLinkEvent”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“ComputeLinkSwitches”(目标“Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeLinkSwitches”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“Link”(目标“_Link”依赖于它):
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“Link”任务。
+       任务“Link”
+         传递给工具的环境变量为:
+           VS_UNICODE_OUTPUT=840
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe" /INCREMENTAL /ILK:"x64\Debug\QQDatabaseKey.ilk" /NOLOGO /LIBPATH:"C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib" /LIBPATH:"C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.lib" /MACHINE:X64 x64\Debug\tool.obj
+         跟踪命令:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\x64\Debug\QQDatabaseKey.tlog" /r "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDATABASE\QQDATABASE\X64\DEBUG\TOOL.OBJ" /b MSBuildConsole_CancelEvent7e312a18d8e34b1396a2daab7f908a06  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\bin\HostX64\x64\link.exe"  /ERRORREPORT:PROMPT /OUT:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe" /INCREMENTAL /ILK:"x64\Debug\QQDatabaseKey.ilk" /NOLOGO /LIBPATH:"C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib" /LIBPATH:"C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\Users\thelastede\vcpkg\installed\x64-windows\debug\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.lib" /MACHINE:X64 x64\Debug\tool.obj
+       已完成执行任务“Link”的操作。
+       任务“Message”
+         QQDatabase.vcxproj -> F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe
+       已完成执行任务“Message”的操作。
+       由于 false 条件，已跳过任务“VCMessage”；(('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'DebugFastLink' and %(Link.ProgramDataBaseFileName) != '')计算为(('LINK' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'DebugFastLink' and  != '')。
+       由于 false 条件，已跳过任务“VCMessage”；(('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'true' and %(Link.ProgramDataBaseFileName) != '')计算为(('LINK' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'true' and  != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“Link”的操作。
+       由于条件的计算结果为 false，已跳过目标“MetaGenInputsOutputs”；('$(EnableManagedIncrementalBuild)' == 'True')的计算结果为('false' == 'True')。
+       由于条件的计算结果为 false，已跳过目标“ComputeMetaGenInputs”；('$(CLRSupport)'!='' and '$(CLRSupport)'!='false' and '$(CLRSupport)'!='NetCore')的计算结果为('false'!='' and 'false'!='false' and 'false'!='NetCore')。
+       由于条件的计算结果为 false，已跳过目标“MetaGen”；('@(MetaGen)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeLinkImportLibraryOutputsForClean”(目标“_Link”依赖于它):
+       由于 false 条件，已跳过任务“WriteLinesToFile”；('@(_LinkSecondaryOutput)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeLinkImportLibraryOutputsForClean”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“AfterLink”(目标“_Link”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterLink”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Link”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Link”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_ALink”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_ALink”的操作。
+       已跳过目标“ComputeLegacyManifestEmbedding”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Manifest”(目标“_BuildLinkAction”依赖于它):
+       由于 false 条件，已跳过任务“CallTarget”；('$(LegacyManifestEmbedding)' == 'true')计算为('' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Manifest”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets”中的目标“AppLocalFromInstalled”(目标“RegisterOutput”依赖于它):
+       任务“Message”
+         [vcpkg] Starting VcpkgApplocalDeps
+       已完成执行任务“Message”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Exec”任务。
+       任务“Exec”
+         pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe" "C:\Users\thelastede\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\QQDatabaseKey.tlog\QQDatabaseKey.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"
+         'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         命令“pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe" "C:\Users\thelastede\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\QQDatabaseKey.tlog\QQDatabaseKey.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"”已退出，代码为 9009。
+       已完成执行任务“Exec”的操作。
+       任务“Message”
+         [vcpkg] Failed to run applocal.ps1 using pwsh, falling back to system PowerShell.
+       已完成执行任务“Message”的操作。
+       任务“Exec”
+         "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\Users\thelastede\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\QQDatabaseKey.exe" "C:\Users\thelastede\vcpkg\installed\x64-windows\debug\bin" "x64\Debug\QQDatabaseKey.tlog\QQDatabaseKey.write.1u.tlog" "x64\Debug\vcpkg.applocal.log"
+       已完成执行任务“Exec”的操作。
+       由于 false 条件，已跳过任务“Warning”；($(_ZVcpkgAppLocalExitCode) != 0)计算为(0 != 0)。
+       任务“ReadLinesFromFile”
+       已完成执行任务“ReadLinesFromFile”的操作。
+       任务“Message”
+       已完成执行任务“Message”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AppLocalFromInstalled”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“RegisterOutput”(目标“_BuildLinkAction”依赖于它):
+       由于 false 条件，已跳过任务“Exec”；('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true')计算为('Application'=='DynamicLibrary' and 'false'=='true' and 'false'!='true')。
+       由于 false 条件，已跳过任务“Exec”；('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true')计算为('Application'=='DynamicLibrary' and 'false'=='true' and 'false'=='true')。
+       由于 false 条件，已跳过任务“Exec”；('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true')计算为('Application'=='Application' and 'false'=='true' and 'false'!='true')。
+       由于 false 条件，已跳过任务“Exec”；('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true')计算为('Application'=='Application' and 'false'=='true' and 'false'=='true')。
+       由于 false 条件，已跳过任务“VCMessage”；('$(_RegisterOutputExitCode)' != '' and '$(_RegisterOutputExitCode)' != '0')计算为('' != '' and '' != '0')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“RegisterOutput”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“ResolveReferences”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ResolvedXDCMake”(目标“_XdcMake”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '$(_ClCompileGenerateXMLDocumentationFiles)' == 'true')计算为('' == '.vcxproj' and '' != '' and '' != '' and '' == 'true')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ResolvedXDCMake”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCLCompileGeneratedXDCFiles”(目标“_XdcMake”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCLCompileGeneratedXDCFiles”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForXdcMake”(目标“_XdcMake”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForXdcMake”的操作。
+       由于条件的计算结果为 false，已跳过目标“XdcMake”；('@(XdcMake)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_XdcMake”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_XdcMake”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ComputeCLCompileGeneratedSbrFiles”(目标“_BscMake”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ComputeCLCompileGeneratedSbrFiles”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForBscMake”(目标“_BscMake”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForBscMake”的操作。
+       由于条件的计算结果为 false，已跳过目标“BscMake”；('@(BscMake)' != '')的计算结果为('' != '')。
+       由于条件的计算结果为 false，已跳过目标“CustomBuildStep”；('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='')的计算结果为('' != '' and ''=='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_BscMake”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_BscMake”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“BuiltProjectOutputGroup”(目标“CreateRecipeFile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuiltProjectOutputGroup”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“PrepareResourceNames”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“SatelliteDllsProjectOutputGroup”(目标“CreateRecipeFile”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“SatelliteDllsProjectOutputGroup”的操作。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“AssignTargetPaths”。以前的生成已成功。
+       已跳过目标“PrepareForBuild”。以前的生成已成功。
+       已跳过目标“AssignTargetPaths”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“MakeDirsForFxc”(目标“ContentFilesProjectOutputGroup”依赖于它):
+       任务“MakeDir”
+       已完成执行任务“MakeDir”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“MakeDirsForFxc”的操作。
+       由于条件的计算结果为 false，已跳过目标“_CreateCopyFileItems”；('@(CopyFileToFolders)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“ContentFilesProjectOutputGroup”(目标“CreateRecipeFile”依赖于它):
+       由于 false 条件，已跳过任务“AssignTargetPath”；('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“AssignTargetPath”；('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' == '')计算为('' != '' and '' == '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“ContentFilesProjectOutputGroup”的操作。
+       已跳过目标“GetReferencedVCProjectsInfo”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“CreateRecipeFile”(目标“_BuildLinkAction”依赖于它):
+       正在使用程序集“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”中的“GenerateDesktopDeployRecipe”任务。
+       任务“GenerateDesktopDeployRecipe”
+       已完成执行任务“GenerateDesktopDeployRecipe”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CreateRecipeFile”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_GenerateSatelliteAssemblyInputs”(目标“CreateSatelliteAssemblies”依赖于它):
+       由于 false 条件，已跳过任务“Warning”；('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'=='')计算为(''!='' and ''=='')。
+       由于 false 条件，已跳过任务“Warning”；('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'=='')计算为(''!='' and ''=='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_GenerateSatelliteAssemblyInputs”的操作。
+       由于条件的计算结果为 false，已跳过目标“ComputeIntermediateSatelliteAssemblies”；(@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '')的计算结果为( != '')。
+       由于条件的计算结果为 false，已跳过目标“GenerateSatelliteAssemblies”；('@(_SatelliteAssemblyResourceInputs)' != '')的计算结果为('' != '')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“CreateSatelliteAssemblies”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CreateSatelliteAssemblies”的操作。
+       由于条件的计算结果为 false，已跳过目标“CopyLocalNativeReference”；('$(CopyLocalProjectReference)' == 'true')的计算结果为('false' == 'true')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Appverifier”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Appverifier”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_Deploy”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_Deploy”的操作。
+       由于条件的计算结果为 false，已跳过目标“ComputeIntermediateSatelliteAssemblies”；(@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '')的计算结果为( != '')。
+       由于条件的计算结果为 false，已跳过目标“_CopyFilesMarkedCopyLocal”；('@(ReferenceCopyLocalPaths)' != '')的计算结果为('' != '')。
+       已跳过目标“AssignTargetPaths”。以前的生成已成功。
+       已跳过目标“AssignProjectConfiguration”。以前的生成已成功。
+       已跳过目标“_SplitProjectReferencesByFileExistence”。以前的生成已成功。
+       已跳过目标“_GetProjectReferenceTargetFrameworkProperties”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_PopulateCommonStateForGetCopyToOutputDirectoryItems”(目标“GetCopyToOutputDirectoryItems”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_PopulateCommonStateForGetCopyToOutputDirectoryItems”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets”中的目标“GetCopyToOutputDirectoryXamlAppDefs”(目标“GetCopyToOutputDirectoryItems”依赖于它):
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetCopyToOutputDirectoryXamlAppDefs”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“GetCopyToOutputDirectoryItems”(目标“_CopySourceItemsToOutputDirectory”依赖于它):
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“CallTarget”任务。
+       任务“CallTarget”
+       已跳过目标“_PopulateCommonStateForGetCopyToOutputDirectoryItems”。以前的生成已成功。
+       已跳过目标“_AddOutputPathToGlobalPropertiesToRemove”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences”(目标“GetCopyToOutputDirectoryItems”依赖于它):
+       由于 false 条件，已跳过任务“MSBuild”；('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true')计算为('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true')。
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences”的操作。
+       已完成执行任务“CallTarget”的操作。
+       任务“CallTarget”
+       已跳过目标“AssignTargetPaths”。以前的生成已成功。
+       已跳过目标“_PopulateCommonStateForGetCopyToOutputDirectoryItems”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_GetCopyToOutputDirectoryItemsFromThisProject”(目标“GetCopyToOutputDirectoryItems”依赖于它):
+       任务“AssignTargetPath”
+       已完成执行任务“AssignTargetPath”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_GetCopyToOutputDirectoryItemsFromThisProject”的操作。
+       已完成执行任务“CallTarget”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“GetCopyToOutputDirectoryItems”的操作。
+       由于条件的计算结果为 false，已跳过目标“_CopyOutOfDateSourceItemsToOutputDirectory”；( '@(_SourceItemsToCopyToOutputDirectory)' != '' )的计算结果为( '' != '' )。
+       由于条件的计算结果为 false，已跳过目标“_CopyOutOfDateSourceItemsToOutputDirectoryAlways”；( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' )的计算结果为( '' != '' )。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_CopySourceItemsToOutputDirectory”(目标“CopyFilesToOutputDirectory”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_CopySourceItemsToOutputDirectory”的操作。
+       由于条件的计算结果为 false，已跳过目标“_CopyAppConfigFile”；( '@(AppConfigWithTargetPath)' != '' )的计算结果为( '' != '' )。
+       由于条件的计算结果为 false，已跳过目标“_CopyManifestFiles”；( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' )的计算结果为( ''=='true' or ''=='true' )。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_CheckForCompileOutputs”(目标“CopyFilesToOutputDirectory”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_CheckForCompileOutputs”的操作。
+       由于条件的计算结果为 false，已跳过目标“_SGenCheckForOutputs”；('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto'))的计算结果为('Off' == 'On' or (''!='' and 'Off' == 'Auto'))。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“CopyFilesToOutputDirectory”(目标“PrepareForRun”依赖于它):
+       由于 false 条件，已跳过任务“Copy”；('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true')计算为('true' == 'true' and 'true' != 'true')。
+       由于 false 条件，已跳过任务“CopyRefAssembly”；('$(ProduceReferenceAssembly)' == 'true' and '$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true')计算为('false' == 'true' and 'true' == 'true' and 'true' != 'true')。
+       由于 false 条件，已跳过任务“Message”；('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)'!='true')计算为('true' == 'true' and 'true'!='true')。
+       由于 false 条件，已跳过任务“Copy”；('@(AddModules)' != '')计算为('' != '')。
+       由于 false 条件，已跳过任务“Copy”；('$(_SGenDllCreated)'=='true')计算为('false'=='true')。
+       由于 false 条件，已跳过任务“Copy”；('$(_DebugSymbolsProduced)'=='true' and '$(SkipCopyingSymbolsToOutputDirectory)' != 'true' and '$(CopyOutputSymbolsToOutputDirectory)'=='true')计算为('false'=='true' and '' != 'true' and 'true'=='true')。
+       由于 false 条件，已跳过任务“Copy”；('$(_DocumentationFileProduced)'=='true' and '$(CopyDocumentationFileToOutputDirectory)'=='true')计算为('false'=='true' and 'true'=='true')。
+       由于 false 条件，已跳过任务“Copy”；('@(IntermediateSatelliteAssembliesWithTargetPath)' != '')计算为('' != '')。
+       由于 false 条件，已跳过任务“Copy”；('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' )计算为('' != '' or '' != '' or '' != '' or '' != '' )。
+       由于 false 条件，已跳过任务“Copy”；('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != '')计算为('' != 'true' and '' != '')。
+       由于 false 条件，已跳过任务“Message”；('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != '')计算为('' != 'true' and '' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“CopyFilesToOutputDirectory”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“PrepareForRun”(目标“_BuildLinkAction”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PrepareForRun”的操作。
+       由于条件的计算结果为 false，已跳过目标“CustomBuildStep”；('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='')的计算结果为('' != '' and ''=='')。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”中的目标“PostBuildEvent”(目标“_BuildLinkAction”依赖于它):
+       由于 false 条件，已跳过任务“Message”；('%(PostBuildEvent.Message)' != '' and '%(PostBuildEvent.Command)' != '')计算为('' != '' and '' != '')。
+       由于 false 条件，已跳过任务“Exec”；('%(PostBuildEvent.Command)' != '')计算为('' != '')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“PostBuildEvent”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“_BuildLinkAction”(目标“BuildLink”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_BuildLinkAction”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“BuildLink”(目标“Build”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“BuildLink”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“AfterBuild”(目标“Build”依赖于它):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“AfterBuild”的操作。
+       已跳过目标“_CheckForCompileOutputs”。以前的生成已成功。
+       由于条件的计算结果为 false，已跳过目标“_SGenCheckForOutputs”；('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto'))的计算结果为('Off' == 'On' or (''!='' and 'Off' == 'Auto'))。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“_CleanGetCurrentAndPriorFileWrites”(目标“IncrementalClean”依赖于它):
+       任务“ReadLinesFromFile”
+       已完成执行任务“ReadLinesFromFile”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“ConvertToAbsolutePath”任务。
+       任务“ConvertToAbsolutePath”
+       已完成执行任务“ConvertToAbsolutePath”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“FindUnderPath”任务。
+       任务“FindUnderPath”
+         比较路径为“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase”。
+       已完成执行任务“FindUnderPath”的操作。
+       任务“FindUnderPath”
+         比较路径为“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\”。
+       已完成执行任务“FindUnderPath”的操作。
+       任务“FindUnderPath”
+         比较路径为“x64\Debug\”。
+       已完成执行任务“FindUnderPath”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“RemoveDuplicates”任务。
+       任务“RemoveDuplicates”
+       已完成执行任务“RemoveDuplicates”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“_CleanGetCurrentAndPriorFileWrites”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets”中的目标“IncrementalClean”(目标“Build”依赖于它):
+       任务“FindUnderPath”
+         比较路径为“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\x64\Debug\”。
+       已完成执行任务“FindUnderPath”的操作。
+       任务“FindUnderPath”
+         比较路径为“x64\Debug\”。
+       已完成执行任务“FindUnderPath”的操作。
+       正在使用程序集“Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”中的“Delete”任务。
+       任务“Delete”
+       已完成执行任务“Delete”的操作。
+       任务“RemoveDuplicates”
+       已完成执行任务“RemoveDuplicates”的操作。
+       由于 false 条件，已跳过任务“WriteLinesToFile”；('@(_CleanUnfilteredPriorFileWrites)'!='@(_CleanUniqueRemainingFileWritesAfterIncrementalClean)')计算为(''!='')。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“IncrementalClean”的操作。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”中的目标“FinalizeBuildStatus”(目标“Build”依赖于它):
+       任务“Delete”
+         正在删除文件“x64\Debug\QQDatabaseKey.tlog\unsuccessfulbuild”。
+       已完成执行任务“Delete”的操作。
+       任务“Touch”
+         正在对“x64\Debug\QQDatabaseKey.tlog\QQDatabaseKey.lastbuildstate”执行 Touch 任务。
+       已完成执行任务“Touch”的操作。
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“FinalizeBuildStatus”的操作。
+       已跳过目标“_CheckForInvalidConfigurationAndPlatform”。以前的生成已成功。
+       已跳过目标“_CheckForInvalidConfigurationAndPlatform”。以前的生成已成功。
+     1>来自项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”的文件“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”中的目标“Build”(入口点):
+     1>已完成在项目“QQDatabase.vcxproj”中生成目标“Build”的操作。
+     1>已完成生成项目“F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+       “F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”(Build 目标) (1) ->
+       (PrepareForBuild 目标) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(QQDatabase.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+
+
+       “F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\QQDatabase.vcxproj”(Build 目标) (1) ->
+       (ClCompile 目标) -> 
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(272,44): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(285,63): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(297,5): warning C4102: “next”: 未引用的标签
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(308,13): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(415,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const TCHAR *”
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(434,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(445,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(480,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(745,112): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+         F:\工作文件\研究生事宜\杂活\QQ密钥提取\QQDatabase\QQDatabase\tool.cpp(776,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD_PTR”
+
+    11 个警告
+    0 个错误
+
+已用时间 00:00:01.05
