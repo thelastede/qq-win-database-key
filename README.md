@@ -2,7 +2,7 @@
 
 ---
 
-前两天才刚被腾讯强制更新，恰好更新成NTQQ了。一时兴起让我想要破解一下这个QQ的数据库密钥，参考了[教程 - NTQQ (Windows).md](https://github.com/QQBackup/qq-win-db-key/blob/master/教程 - NTQQ (Windows).md)。不过因为感觉每次都用调试器捣鼓半天不是很优雅，就花了一天时间集成了个可以直接跑的exe。
+前两天才刚被腾讯强制更新，恰好更新成NTQQ了。一时兴起让我想要破解一下这个QQ的数据库密钥，参考了[教程 - NTQQ (Windows).md](https://github.com/QQBackup/qq-win-db-key/blob/master)。不过因为感觉每次都用调试器捣鼓半天不是很优雅，就花了一天时间集成了个可以直接跑的exe。
 
 在9.9.15-28498版本上测试通过，这版本应该挺新的，刚更新的。
 
