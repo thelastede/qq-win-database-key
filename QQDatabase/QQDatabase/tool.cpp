@@ -462,7 +462,7 @@ BOOL ReadProcessMemoryAndCheck(HANDLE hProcess, LPCVOID baseAddress) {
 		return FALSE;
 	}
 
-	// 检查第 33 个字节是否为 \x00
+	// 检查key长度是否为预定义的keyLen
 	if (strlen((const char *)buffer) != keyLen) {
 		printf("[x] keylen is not equal to %d\n",keyLen);
 		return FALSE;
